@@ -1,0 +1,8 @@
+{
+  "edge": {
+    "useChromium": true,
+    "arguments": [
+      "--window-size=1920,1080"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{865D3679-BA64-4AF8-AF2F-B795C1BC55C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EbaySpecflowProject", "EbaySpecflowProject\EbaySpecflowProject.csproj", "{1579F760-999F-4FDD-BB3C-124981D8E364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865D3679-BA64-4AF8-AF2F-B795C1BC55C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865D3679-BA64-4AF8-AF2F-B795C1BC55C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865D3679-BA64-4AF8-AF2F-B795C1BC55C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865D3679-BA64-4AF8-AF2F-B795C1BC55C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1579F760-999F-4FDD-BB3C-124981D8E364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1579F760-999F-4FDD-BB3C-124981D8E364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1579F760-999F-4FDD-BB3C-124981D8E364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1579F760-999F-4FDD-BB3C-124981D8E364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14953B7E-68A9-46C1-B6D0-5BCE25F36CB2}
+	EndGlobalSection
+EndGlobal
