@@ -6,10 +6,12 @@ This project aims to demonstrate an example framework built using .NET Core and 
 With the current state of the framework it is fully usable.
 But keep in mind that the framework is not fully developed. It is still Work-in-Progress. 
 
-## Please if you have any suggestions or you've found bad logic open a ticked inside the repository using this name format:
+## Please if you have any suggestions or you've found bad logic open a branch inside the repository using this name format:
 
  - [IDEA] <TICKET_NAME> for suggestions/missing implementations
  - [BUG] <TICKET_NAME> for bad logic/issues
+ 
+ ##### feel free to use simple .txt files to describe the suggestions/issue
 
 ## Features
 
